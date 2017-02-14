@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a75374876016d224ab4958b703ca3e1d
+timeCreated: 1487069731
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chosence Light
+  fontNames:
+  - Chosence Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d7b5ac760a9af64b8fc71588f6dc5d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
