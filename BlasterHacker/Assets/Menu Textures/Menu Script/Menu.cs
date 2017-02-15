@@ -11,7 +11,7 @@ public class Menu : MonoBehaviour {
 
     public Slider[] volumeSliders;
     public Toggle[] resolutionToggles;
-    public Toggle[] fullscreenToggle;
+    public Toggle fullscreenToggle;
     public int[] screenWidths;
     int activeScreenResIndex;
 
@@ -28,7 +28,12 @@ public class Menu : MonoBehaviour {
             resolutionToggles[i].isOn = i == activeScreenResIndex;
         }
 
-       // fullscreenToggle.isOn = isFullscreen;
+     fullscreenToggle.isOn = isFullscreen;
+       
+
+        
+             
+        
     }
 
     public void Play ()
